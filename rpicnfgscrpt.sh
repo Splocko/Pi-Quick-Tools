@@ -1,0 +1,1 @@
+lxterminal --title ='Raspberry Pi Configuartion' -e 'sudo raspi-config'
