@@ -1,0 +1,1 @@
+lxterminal --title 'Temperature' --geometry=5x5 -e 'watch -n1 vcgencmd measure_temp'

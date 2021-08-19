@@ -1,0 +1,1 @@
+lxterminal --title 'Stats' -e 'htop'
